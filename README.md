@@ -79,56 +79,6 @@ DH Fitness는 push-up 갯수를 카운팅, jogging step수 카운팅 및 운동 
 길게 누르면 운동기록이 삭제됩니다
 
 <br>
-
-### 5. 달력 기능과 연동한 스케쥴 관리(Schedule managment)
-
-<center>
-    <img src="./README.assets/5.png" alt="MODU"/>
-</center>
-달력 페이지와 트레이너의 PT 프로그램 일정 및 시간 연동 CRUD & My Profile Page
-
-<br>
-
-### 6. 트레이너의 PT관리 CRUD(PT Program & Client management)
-
-<center>
-    <img src="./README.assets/6.png" alt="MODU"/>
-</center>
-관리 중인 PT 프로그램과 회원 관리  My Page
-
-<br>
-
-### 7. PT프로그램 디테일 CRUD(PT Program CRUD)
-
-<center>
-    <img src="./README.assets/7.png" alt="MODU"/>
-</center>
-PT Program 등록 CRUD (일정별 시간 관리)
-
-<br>
-
-### 8. 결제시스템 (카카오 페이 결제) Client Payment System
-
-<center>
-    <img src="./README.assets/8.png" alt="MODU"/>
-</center>
-KakaoPay API 활용 PT 프로그램 결제 시스템, 결제 이후 캘린더로 일정 동기화
-
-<br>
-
-### 9. 실시간 알림 & 프로그램 리뷰 & 예약 시스템
-
-### Realtime Notification & Review & Reservation System
-
-<center>
-    <img src="./README.assets/9.png" alt="MODU"/>
-</center>
-트레이너와 회원간의 실시간 알림 기능 - Program별 리뷰 및 후기 댓글 기능
-
-<br>
-
-
-
 ## :wrench: Tech Stack
 
 ### Tech Stack

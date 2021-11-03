@@ -3,7 +3,7 @@
 </p>
 
 <center>
-    <img src="./logo_row.png" alt="MODU" style="zoom:76%;" align="center"/>
+    ![Pinpoint](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 </center>
 
 

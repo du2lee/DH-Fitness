@@ -10,7 +10,7 @@
 
 > DH-Fitness (2021 울산대학교 안드로이드 term프로젝트)
 
-### 🏠 [Github](https://github.com/du2lee/DH-Fitness.git) :clapper:[Demo 시연영상](https://www.youtube.com/watch?v=JnYyQUX-lPw&feature=youtu.be) :microphone:[Presentation](https://docs.google.com/presentation/d/1onaYFSkInPrBcYtSIOaAIKdrtNF4GdVa/edit?usp=sharing&ouid=103120028218729581019&rtpof=true&sd=true)
+### 🏠 [Github](https://github.com/du2lee/DH-Fitness.git) :clapper:[Demo 시연영상](https://drive.google.com/file/d/1LB612sQy9XwlH8KWSYgldBJNnJuWucAV/view?usp=sharing) :microphone:[Presentation](https://docs.google.com/presentation/d/1onaYFSkInPrBcYtSIOaAIKdrtNF4GdVa/edit?usp=sharing&ouid=103120028218729581019&rtpof=true&sd=true)
 
 <br>
 

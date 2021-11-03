@@ -43,39 +43,40 @@ DH Fitness는 push-up 갯수를 카운팅, jogging step수 카운팅 및 운동 
 
 ## :mag: Overview
 
-### 1. 유저 로그인 페이지 (User Login Page) (소셜로그인)
+### 1. Home 화면
 
 <center>
     <img src="./README.assets/1.png" alt="MODU"/>
 </center>
-Kakao API를 이용 소셜 로그인 (OAuth)
+어플의 홈 화면 입니다
 
 <br>
 
-### 2. 트레이너-고객 실시간채팅 Trainer - Client Chatting 
+### 2. Push-up 화면
 
 <center>
     <img src="./README.assets/2.png" alt="MODU"/>
 </center>
-Node.js (Express Framework) 서버 Socket.io 통신으로 1:1 채팅 기능 구현
+근접센서를 이용하여 PUSH-UP 횟수를 count 합니다
 
 <br>
 
-### 3. 트레이너-프로그램 추천 시스템 (Best Trainer/Program Carousel)
+### 3. Jogging 화면
 
 <center>
     <img src="./README.assets/3.png" alt="MODU"/>
 </center>
-PT 프로그램 CRUD 기능 및 Carousel 화면 구성
+모션센서를 이용하여 걸음수를 count하고 Jogging시간을 알려줍니다
 
 <br>
 
-### 4. 다중 화상통화 기능활용 온라인 홈트레이닝 세션 (Multiple User WebRTC(Realtime Camera) Online Personal Training)
+### 4. Recode 화면 
 
 <center>
     <img src="./README.assets/4.png" alt="MODU"/>
 </center>
-webRTC API 활용 실시간 다자간 영상채팅 기능
+저장한 운동 기록들을 보여줍니다
+길게 누르면 운동기록이 삭제됩니다
 
 <br>
 

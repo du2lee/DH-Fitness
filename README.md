@@ -189,19 +189,6 @@ Frontend : 🦁 **Roh Hyunsuk**
 
 <hr>
 
-## :trophy: Awards
-
-- SSAFY 자율 프로젝트 우수팀 선정 및 부상 100만원 수상
-
-![Award](./README.assets/MODU.jpg)
-
-- SSAFY  Best Member 선정 & 50000 마일리지 수여
-
-  ![bestmember](./README.assets/bestmember.png)
-
-
-
-
 ## 📝 License
 
-Copyright © 2020  MODU's Health  <br>
+Copyright © 2021  Duhui Fitness  <br>

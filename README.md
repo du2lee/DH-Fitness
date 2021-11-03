@@ -1,14 +1,4 @@
-# DH Fitness
-
-![Pinpoint](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
-
-
-## Description
-
-DH Fitness는 push-up 갯수를 카운팅, jogging step수 카운팅 및 운동 기록을 저장하는 어플입니다.
-
-
-<h1 align="center">Welcome to MODU <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px"></h1>
+<h1 align="center">Welcome to DH-Fitness <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px"></h1>
 <p>
 </p>
 
@@ -27,8 +17,7 @@ DH Fitness는 push-up 갯수를 카운팅, jogging step수 카운팅 및 운동 
 ## ✨ Description
 
 ```sh
-모두의 헬스는 Health Trainer 와 Client 간의 온-오프라인 Personal Training 상품을
-판매하고, 이용할 수 있게 도와주는 O2O 플랫폼 서비스 입니다.
+DH Fitness는 push-up 갯수를 카운팅, jogging step수 카운팅 및 운동 기록을 저장하는 어플입니다.
 ```
 
 

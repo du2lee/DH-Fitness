@@ -37,9 +37,9 @@ DH Fitness는 push-up 갯수를 카운팅, jogging step수 카운팅 및 운동 
 
 ## :mag: 서비스 기능
 
-<center>
+<!-- <center>
     <img src="./README.assets/requirements.png" alt="MODU"  align="center"/>
-</center>
+</center> -->
 
 ## :mag: Overview
 

@@ -79,7 +79,6 @@ DH Fitness는 push-up 갯수를 카운팅, jogging step수 카운팅 및 운동 
 길게 누르면 운동기록이 삭제됩니다
 
 <br>
-## :wrench: Tech Stack
 
 ### Tech Stack
 

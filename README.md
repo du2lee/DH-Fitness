@@ -1,14 +1,10 @@
-
+##DH Fitness
 
 ![Pinpoint](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
 
-## Latest Release (2021/07/22)
+## Latest Release (2021/11/02)
 
-We're happy to announce the release of Pinpoint v2.3.0.
-Please check the release note at (https://github.com/pinpoint-apm/pinpoint/releases/tag/v2.3.0).
-
-The current stable version is [v2.3.0](https://github.com/pinpoint-apm/pinpoint/releases/tag/v2.3.0).
 
 ## Live Demo
 

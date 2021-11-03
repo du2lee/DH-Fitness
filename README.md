@@ -46,7 +46,7 @@ DH Fitness는 push-up 갯수를 카운팅, jogging step수 카운팅 및 운동 
 ### 1. Home 화면
 
 <center>
-    <img src="./README.assets/1.png" alt="MODU"/>
+    <img src="readme/home.png" alt="MODU"/>
 </center>
 어플의 홈 화면 입니다
 
@@ -55,7 +55,7 @@ DH Fitness는 push-up 갯수를 카운팅, jogging step수 카운팅 및 운동 
 ### 2. Push-up 화면
 
 <center>
-    <img src="./README.assets/2.png" alt="MODU"/>
+    <img src="readme/pushup.png" alt="MODU"/>
 </center>
 근접센서를 이용하여 PUSH-UP 횟수를 count 합니다
 
@@ -64,7 +64,7 @@ DH Fitness는 push-up 갯수를 카운팅, jogging step수 카운팅 및 운동 
 ### 3. Jogging 화면
 
 <center>
-    <img src="./README.assets/3.png" alt="MODU"/>
+    <img src="readme/jogging.png" alt="MODU"/>
 </center>
 모션센서를 이용하여 걸음수를 count하고 Jogging시간을 알려줍니다
 
@@ -73,7 +73,7 @@ DH Fitness는 push-up 갯수를 카운팅, jogging step수 카운팅 및 운동 
 ### 4. Recode 화면 
 
 <center>
-    <img src="./README.assets/4.png" alt="MODU"/>
+    <img src="readme/recode.png" alt="MODU"/>
 </center>
 저장한 운동 기록들을 보여줍니다
 길게 누르면 운동기록이 삭제됩니다

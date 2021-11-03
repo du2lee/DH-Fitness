@@ -153,39 +153,10 @@ KakaoPay API 활용 PT 프로그램 결제 시스템, 결제 이후 캘린더로
 </center>
 <br>
 
-## :runner: Steps to run
-
-### Backend
-
-```bash
-$ cd modeling
-$ python -m venv venv
-$ source venv/Scripts/activate
-$ python install -r requirements.txt
-$ python manage.py runserver
-```
-
-### Frontend
-
-```bash
-$ cd frontend
-$ npm install
-$ npm run serve
-```
-
-<br>
 
 ## 🤼‍♂️Author
 
-Team Leader : 🐯**Kang Donghoon**
-
-Backend : 🐶 **Lee Changwan**
-
-Backend: 🐺 **Bae Yongkyun**
-
-Frontend : 🐱 **Kang Byungkook**
-
-Frontend : 🦁 **Roh Hyunsuk**
+Developer : 🐯**Duhui Lee**
 
 <hr>
 

@@ -1,6 +1,6 @@
 
 
-![Pinpoint](web/psd/logo.png)
+![Pinpoint](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
 
 ## Latest Release (2021/07/22)

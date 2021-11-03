@@ -10,7 +10,7 @@
 
 > DH-Fitness (2021 울산대학교 안드로이드 term프로젝트)
 
-### 🏠 [Github](https://github.com/jesuisjavert/MODU) :clapper:[Demo 시연영상](https://www.youtube.com/watch?v=JnYyQUX-lPw&feature=youtu.be) :page_with_curl:[프로젝트 명세서](https://drive.google.com/file/d/1fWqLAJYHXRDeOOPT6kzg8ESiNVkAZr1h/view?usp=sharing) :microphone:[Presentation](https://docs.google.com/presentation/d/1onaYFSkInPrBcYtSIOaAIKdrtNF4GdVa/edit?usp=sharing&ouid=103120028218729581019&rtpof=true&sd=true)
+### 🏠 [Github](https://github.com/du2lee/DH-Fitness.git) :clapper:[Demo 시연영상](https://www.youtube.com/watch?v=JnYyQUX-lPw&feature=youtu.be) :microphone:[Presentation](https://docs.google.com/presentation/d/1onaYFSkInPrBcYtSIOaAIKdrtNF4GdVa/edit?usp=sharing&ouid=103120028218729581019&rtpof=true&sd=true)
 
 <br>
 
@@ -25,7 +25,12 @@ DH Fitness는 push-up 갯수를 카운팅, jogging step수 카운팅 및 운동 
 ## :pushpin: Project Goal
 
 ```sh
- 코로나가 터져 확진자가  늘어나고 고강도 사회적 거리두기가 시행되면서 집에서 있는 시간이 증가하여 살이 확 찐 자가 증가하였습니다. 저는 계속된 확 찐 자 증가하는 모습을 지켜 볼 수가 없어 운동 앱을 제작하였습니다. 
+ 코로나가 터져 확진자가  늘어나고 고강도 사회적 거리두기가 시행되면서
+ 집에서 있는 시간이 증가하여 살이 확 찐 자가 증가하였습니다. 
+ 저는 계속된 확 찐 자 증가하는 모습을 지켜 볼 수가 없어 운동 앱을 제작하였습니다.
+ 이 앱의 최종 목표는 사용으로 코로나로 살이 확 찐 자 수를 감소 시키고 거리두기로 
+ 생긴 사용자의 무기력감을 해소하는 동시에 체력증진과 성취감을 얻게 하는 것입니다.
+ 
 ```
 
 

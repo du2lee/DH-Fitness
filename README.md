@@ -8,9 +8,9 @@
 
 
 
-> MODU's Health / 모두의 헬스 (SSAFY 3rd 자율프로젝트)
+> DH-Fitness (2021 울산대학교 안드로이드 term프로젝트)
 
-### 🏠 [Github](https://github.com/jesuisjavert/MODU) :clapper:[Demo 시연영상](https://www.youtube.com/watch?v=JnYyQUX-lPw&feature=youtu.be) :page_with_curl:[프로젝트 명세서](https://drive.google.com/file/d/1fWqLAJYHXRDeOOPT6kzg8ESiNVkAZr1h/view?usp=sharing) :microphone:[Presentation](https://drive.google.com/file/d/1LEiyBAhnahO3JV_hn3iLqF7BJafw2TFf/view?usp=sharing)
+### 🏠 [Github](https://github.com/jesuisjavert/MODU) :clapper:[Demo 시연영상](https://www.youtube.com/watch?v=JnYyQUX-lPw&feature=youtu.be) :page_with_curl:[프로젝트 명세서](https://drive.google.com/file/d/1fWqLAJYHXRDeOOPT6kzg8ESiNVkAZr1h/view?usp=sharing) :microphone:[Presentation](https://docs.google.com/presentation/d/1onaYFSkInPrBcYtSIOaAIKdrtNF4GdVa/edit?usp=sharing&ouid=103120028218729581019&rtpof=true&sd=true)
 
 <br>
 

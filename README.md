@@ -3,7 +3,9 @@
 ![Pinpoint](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
 
-## Latest Release (2021/11/02)
+## Description
+
+DH Fitness는 push-up 갯수를 카운팅, jogging step수 카운팅 및 운동 기록을 저장하는 어플입니다.
 
 
 ## Live Demo

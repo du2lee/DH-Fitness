@@ -2,8 +2,6 @@
 
 ![Pinpoint](web/psd/logo.png)
 
-[![Maven](https://img.shields.io/github/workflow/status/pinpoint-apm/pinpoint/Maven/master?label=build&logo=github)](https://github.com/pinpoint-apm/pinpoint/actions?query=workflow%3AMaven)
-[![codecov](https://codecov.io/gh/pinpoint-apm/pinpoint/branch/master/graph/badge.svg)](https://codecov.io/gh/pinpoint-apm/pinpoint)
 
 ## Latest Release (2021/07/22)
 
@@ -129,25 +127,4 @@ We have Chinese community now, welcome to join!
 QQ Group1: 897594820 | QQ Group2: 812507584 | DING Group : 21981598
 :----------------: | :-----------: | :-----------: 
 ![QQ Group1](doc/images/NAVERPinpoint.png) | ![QQ Group2](doc/images/NAVERPinpoint2.png) | ![DING Group](doc/images/NaverPinpoint交流群-DING.jpg)
-
-
-## License
-Pinpoint is licensed under the Apache License, Version 2.0.
-See [LICENSE](LICENSE) for full license text.
-
-```
-Copyright 2018 NAVER Corp.
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
 

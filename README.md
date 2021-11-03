@@ -80,7 +80,7 @@ DH Fitness는 push-up 갯수를 카운팅, jogging step수 카운팅 및 운동 
 
 <br>
 
-### Tech Stack
+<!-- ### Tech Stack
 
 <center>
     <img src="./README.assets/stack.png" alt="MODU"/>
@@ -101,7 +101,7 @@ DH Fitness는 push-up 갯수를 카운팅, jogging step수 카운팅 및 운동 
 <center>
     <img src="./README.assets/erd.png" alt="MODU"/>
 </center>
-<br>
+<br> -->
 
 
 ## 🤼‍♂️Author

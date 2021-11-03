@@ -46,7 +46,7 @@ DH Fitness는 push-up 갯수를 카운팅, jogging step수 카운팅 및 운동 
 ### 1. Home 화면
 
 <center>
-    <img src="readme/home.jpg" alt="DH"/>
+    <img src="readme/home.jpg" style="zoom:10%;" alt="DH"/>
 </center>
 어플의 홈 화면 입니다
 
